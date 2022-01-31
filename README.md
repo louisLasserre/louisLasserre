@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louisLasserre
 - 👀 I’m interested in learning to be a developer
-- 🌱 I’m currently learning back, and is interested on integration of 3d in websites.
+- 🌱 I’m currently learning Ruby On rails, and is interested on integration of 3d in websites.
 - 💞️ I’m looking to collaborate on anything, it can be software or web developement.
 - 📫 You can reach me by sending me an email at louis.lasserre@mmibordeaux.com
 
